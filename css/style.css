@@ -1375,7 +1375,7 @@ a:hover {
   position: absolute;
   left: 0;
   top: 0;
-  background: url(../images/anim-hero.gif) center no-repeat #131313;
+  background: url(../images/anim-hero.jpg) center no-repeat #131313;
 }
 .animation-bg .inner {
   display: inline-block;
