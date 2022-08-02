@@ -154,9 +154,10 @@ a {
   transition: 0.25s ease-in-out;
   color: #000;
 }
-a:hover {
+/*a:hover {
   text-decoration: underline;
-}
+}*/
+
 
 /* GLITCH ANIMZ */
 @keyframes noise-anim {
